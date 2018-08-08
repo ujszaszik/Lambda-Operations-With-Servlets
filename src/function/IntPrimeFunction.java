@@ -3,7 +3,7 @@ package function;
 import java.util.Optional;
 import java.util.function.Predicate;
 
-import lambda.MyMath;
+import mymethods.MyMath;
 
 public class IntPrimeFunction implements MyFunction {
 	private final String VALID = "It is a prime";

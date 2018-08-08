@@ -8,7 +8,7 @@ import java.util.Queue;
 import java.util.Set;
 import java.util.stream.Collectors;
 
-import lambda.MyMath;
+import mymethods.MyMath;
 
 public class PartialPermutation implements Permutation {
 	private final List<Node> results = new LinkedList<>();

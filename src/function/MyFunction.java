@@ -2,7 +2,7 @@ package function;
 
 import java.util.Optional;
 
-import lambda.MyMethods;
+import mymethods.MyMethods;
 
 public interface MyFunction {
 	static final MyMethods myMethods = new MyMethods();
